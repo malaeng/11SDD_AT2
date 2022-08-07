@@ -1,0 +1,6 @@
+{
+    "help_blurb": "This is a collection of text based games and tests, which are played by entering numbers or letters on the keyboard to select different options. All games have deeper explanations of the gameplay/rules when you run them. You can enter 'quit' at any time to exit the games. Select on option to learn more about it.",
+    "connect_four": "'Connect Four'is a digital, text-based recreation of 'connect four'. It is a two player game, where the aim is to get four in a row (horizontally, vertically or diagonally), by dropping tokens into any of the seven columns.",
+    "maths_matrix": "'Maths Matrix Game' is a maths games designed to improve times tables recognition and speed. It consists of a standard 12x12 timestables matrix, with some numbers hidden. To play the game, you must enter the hidden numbers as quickly as possible.",
+    "timestables": "'Times Tables Practice' is a simple times tables test where you are asked times tables questions 10 at a time. You can select your difficulty, which corresponds to the highest number that may be used in a question."
+}
